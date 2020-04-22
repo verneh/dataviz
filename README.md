@@ -1,6 +1,6 @@
 <html>
   <body>
-Examples:    
+    Examples:<br></br>    
 1) Customer Segmentation - Tableau  
   <div class='tableauPlaceholder' id='viz1587495466867' style='position: relative'><noscript>
     <a href='https:&#47;&#47;public.tableau.com&#47;profile&#47;verne.ongteco#!&#47;vizhome&#47;CustomerSegmentation_15873626098920&#47;Story1'>
