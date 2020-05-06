@@ -1,5 +1,6 @@
 <html>
   <body>
+    Hello! This is my one page compilation of data viz stuff. Click on the play button to get to the page in Tableau.<br></br>
     Examples:<br></br>    
 1) Customer Segmentation - Tableau  
   <div class='tableauPlaceholder' id='viz1587495466867' style='position: relative'><noscript>
