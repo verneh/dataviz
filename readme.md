@@ -2,7 +2,7 @@
   <body>
     Hello! This is my one page compilation of data viz stuff. Click on the play button to get to the page in Tableau or other charts.<br></br>
     Examples:<br></br>    
-1) Customer Segmentation - Tableau(https://public.tableau.com/profile/verne.ongteco#!/vizhome/CustomerSegmentation_15873626098920/Story1)
+1)[Customer Segmentation - Tableau](https://public.tableau.com/profile/verne.ongteco#!/vizhome/CustomerSegmentation_15873626098920/Story1)
 
 ![Customer Segmentation - Tableau](https://github.com/verneh/dataviz/blob/master/tableau.png)
    
