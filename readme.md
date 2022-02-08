@@ -11,5 +11,9 @@
 
 ![Country Expenditure % by GDP - Carto DB](https://github.com/verneh/dataviz/blob/master/cartodb.png)
 
+3) [Nice in Prettymaps](https://github.com/verneh/dataviz/blob/master/prettymaps.ipynb)
+
+![Nice in Prettymaps](https://github.com/verneh/dataviz/blob/master/nice_2.png)
+
   </body>
  </html>
