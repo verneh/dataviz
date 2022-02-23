@@ -17,7 +17,7 @@
 
 4) [Simple Distance Calculation](https://github.com/verneh/dataviz/blob/master/distance_calc.ipynb)
 
-![Simple Distance Calculation](https://github.com/verneh/dataviz/blob/master/images/leaflet.png)
+![Simple Distance Calculation](https://github.com/verneh/dataviz/blob/master/images/leaflet.jpg)
 
   </body>
  </html>
